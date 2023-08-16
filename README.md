@@ -1,3 +1,4 @@
+The app is integrated with one of the most popular API's for weather called "Open Weathermap". This app creates a simple form, where you can type your city/country and the API will show you the weather for the city in real time. After setup, you need to get your own API key from [Open Weathermap](https://openweathermap.org/appid) and put it in src/App.js in API_KEY constant. 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
